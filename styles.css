@@ -1,0 +1,66 @@
+body {
+  background-color: #0d192b;
+  font-family: "Outfit", sans-serif;
+}
+
+h5, .attribution {
+  color: #fff;
+}
+
+p {
+  color: #8bacda;
+}
+
+hr {
+  color: #8bacda;
+  border-top: solid 2px;
+  margin: 0;
+}
+
+.hr-box {
+  padding: 0;
+  margin: 0 5% 5% 5%;
+}
+
+.card {
+  background-color: #14253d;
+  border-radius: 7px;
+}
+
+.card-image {
+  padding: 7%;
+  border-radius: 10%;
+}
+
+.card-title {
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  color: #8bacda;
+}
+
+.price {
+  color: #00fff7;
+  font-size: 0.8rem;
+}
+
+.time-left {
+  font-size: 0.8rem;
+  text-align: right;
+}
+
+.avatar {
+  border-radius: 100%;
+  border: solid 1px white
+}
+
+.creation{
+  font-size: 0.8rem;
+}
+
+.attribution, a{
+  font-size: .8rem;
+  text-decoration: none;
+}
